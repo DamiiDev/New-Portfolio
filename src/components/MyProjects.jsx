@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import authentication from "../assets/auth.jpg";
+import authentication from "../assets/authe.jpg";
 import devtrybe from "../assets/trybe.jpg";
 import jobtracker from "../assets/jobtrack.jpg";
 import quiz from "../assets/quizzz.jpg";
