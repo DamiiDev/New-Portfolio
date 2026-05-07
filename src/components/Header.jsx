@@ -96,7 +96,7 @@ export default function Header() {
             key={label}
             href={href}
             onClick={() => setOpen(false)}
-            className="font-display text-sm tracking-wideest uppercase text-parchment hover:text-gold transition-colors duration-200"
+            className="font-display text-sm tracking-widest uppercase text-parchment hover:text-gold transition-colors duration-200"
           >
             {label}
           </a>

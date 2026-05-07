@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import profileImage from "../assets/imageprof.jpeg";
+import profileImage from "../assets/profileimg.jpeg";
 
 const TITLES = ["Frontend Developer", "React Specialist", "UI Engineer"];
 
